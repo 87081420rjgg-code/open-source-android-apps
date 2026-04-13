@@ -1,148 +1,57 @@
+# Games
 
-## Game  
-###\# 
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[2048-android](https://github.com/uberspot/2048-android) | The android port of the 2048 game (for offline playing) | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.uberspot.a2048)   
+A curated list of open-source games for Android, perfect for developers and enthusiasts to explore. The list is sorted alphabetically.
 
-###A
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+---
 
-###B
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Blockinger](https://github.com/vocollapse/Blockinger) | Tetris clone for Android | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/game/org.blockinger.game)    
-[Brain Phaser](https://github.com/Kamshak/BrainPhaser) | Quiz App in Material Design with user management, categories and statistics. | Java |
+| App Name | Description | Language | License | ⭐ Stars | Download |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| [**2048-android**](https://github.com/uberspot/2048-android) | An offline-capable port of the classic 2048 puzzle game. | `Java` | `MIT` | 1.1k | — |
+| [**Anti-mine**](https://github.com/lucasnlm/antimine-android) | A modern, minimalist puzzle game inspired by Minesweeper. | `Kotlin` | `GPL-3.0` | 775 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.logical.minato) |
+| [**Bintris**](https://github.com/Lallassu/bintris) | A game that combines the mechanics of Tetris with binary numbers. | `Go` | `GPL-3.0` | 164 | — |
+| [**Blockinger**](https://github.com/vocollapse/Blockinger) | A classic Tetris clone with customizable controls. | `Java` | `GPL-3.0` | 221 | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://www.coolapk.com/game/org.blockinger.game) |
+| [**Brain Phaser**](https://github.com/ValentinFunk/BrainPhaser) | A Material Design quiz app with user management and stats. | `Java` | `GPL-3.0` | 117 | — |
+| [**cantstoptherock**](https://github.com/huntergdavis/cantstoptherock) | A simple adversarial game. | `Java` | `BSD-3-Clause` | 6 | — |
+| [**Chase Whisply**](https://github.com/tvbarthel/ChaseWhisplyProject) | An experimental augmented reality game. | `Java` | `Apache-2.0` | 552 | — |
+| [**Clones Online**](https://github.com/lukedd3/ClonesOnline) | An online multiplayer board game for Android. | `Java` | `MIT` | 13 | — |
+| [**Cloud Cup**](https://github.com/google/cloud-cup-android) | A Firebase-powered multi-device game client. | `Java` | `Apache-2.0` | 51 | — |
+| [**destiny_game**](https://github.com/VedantAdka/destiny_game) | A choice-based adventure game with a dark-themed UI. | `C++` | `MIT` | 0 | — |
+| [**Dungeon Crawl Stone Soup**](https://github.com/crawl/crawl) | A classic roguelike game of dungeon exploration, combat, and magic. | `C++` | `GPL-2.0` | 2.8k | — |
+| [**Etheroll**](https://github.com/AndreMiras/EtherollApp) | A dice game that runs on the Ethereum blockchain. | `Python` | `MIT` | 56 | — |
+| [**friendspell**](https://github.com/chiuki/friendspell) | A party icebreaker game based on the Google Nearby API. | `Java` | `Apache-2.0` | 414 | — |
+| [**GameOfCards**](https://github.com/rohitramkumar308/GameOfCards) | A simple, rule-free card game. | `Java` | Not specified | 58 | — |
+| [**Gloomy Dungeons 2**](https://github.com/restorer/gloomy-dungeons-2) | The sequel to the old-school 3D shooter. | `Java` | `MIT` | 120 | — |
+| [**Gloomy Dungeons 3D**](https://github.com/restorer/gloomy-dungeons-3d) | An old-school, Wolfenstein-style 3D shooter. | `Java` | `MIT` | 71 | — |
+| [**Google Santa Tracker**](https://github.com/google/santa-tracker-android) | An educational and entertaining app for the Christmas holiday period. | `Java` | `Apache-2.0` | 2.1k | — |
+| [**Material Life**](https://github.com/juankysoriano/MaterialLife) | A Material Design styled implementation of Conway's Game of Life. | `Java` | `GPL-2.0` | 97 | — |
+| [**Memory Game**](https://github.com/sromku/memory-game) | A simple and beautiful memory game designed for kids. | `Java` | `Apache-2.0` | 597 | — |
+| [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | `Java` | `GPL-3.0` | 27.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=io.anuke.mindustry) |
+| [**Minetest**](https://github.com/luanti-org/luanti) | An open-source infinite-world block sandbox game with survival and crafting. | `C++` | `LGPL-2.1` | 12.7k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.minetest.minetest) |
+| [**newplanegame**](https://github.com/nuptboyzhb/newplanegame) | A simple airplane game for Android. | `Java` | Not specified | 94 | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://www.wandoujia.com/apps/edu.njupt.zhb.planegame) |
+| [**Open Flood**](https://github.com/GunshipPenguin/open_flood) | A simple but challenging flood-fill puzzle game. | `Java` | `MIT` | 145 | — |
+| [**Pie Noon**](https://github.com/google/pienoon) | A multiplayer party game where you throw pies at your friends. | `C++` | `Apache-2.0` | 440 | — |
+| [**Pixel Dungeon**](https://github.com/watabou/pixel-dungeon) | A traditional roguelike game with charming pixel-art graphics. | `Java` | `GPL-3.0` | 3.9k | — |
+| [**PokerTH**](https://github.com/pokerth/pokerth) | A C++/Qt-based poker game for Texas hold 'em. | `C++` | `AGPL-3.0` | 609 | — |
+| [**Shattered Pixel Dungeon**](https://github.com/00-Evan/shattered-pixel-dungeon) | A popular roguelike RPG, based on Pixel Dungeon, with frequent updates. | `Java` | `GPL-3.0` | 6.0k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon) |
+| [**Simon Tatham's Puzzles**](https://github.com/chrisboyle/sgtpuzzles) | A collection of dozens of single-player logic puzzle games. | `C` | `MIT` | 701 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles) |
+| [**Sleuth**](https://codeberg.org/BWPanda/sleuth) | A single-player logic puzzle game. | `GDScript` | `GPL-3.0` | N/A | [![Codeberg](https://img.shields.io/badge/Download-Codeberg-blue)](https://codeberg.org/BWPanda/sleuth/releases/latest) |
+| [**SOPA**](https://github.com/djschilling/sopa) | A puzzle game where you connect gates with colored tubes. | `Java` | `Apache-2.0` | 35 | — |
+| [**Splinter Sweets**](https://github.com/reime005/splintersweets) | A libGDX mobile game about smashing as many sweets as possible. | `Objective-C` | `Apache-2.0` | 65 | — |
+| [**Stratagus**](https://github.com/drodin/Stratagus) | A port of the Stratagus real-time strategy gaming engine. | `C++` | `GPL-2.0` | 54 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.drodin.stratagus) |
+| [**Tanks of Freedom**](https://github.com/w84death/Tanks-of-Freedom) | An indie Turn-Based Strategy game in isometric pixel art. | `GDScript` | `MIT` | 1.2k | — |
+| [**Zabyrinth**](https://github.com/Zachacious/Zabyrinth) | A physics-based game based on the classic Labyrinth board game. | `C++` | `MIT` | 25 | — |
 
-###C
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[cantstoptherock](https://github.com/huntergdavis/cantstoptherock) | A simple adversarial game | Java |
-[Chase Whisply](https://github.com/tvbarthel/ChaseWhisplyProject) | an augmented reality attempt | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fr.tvbarthel.games.chasewhisply)
-[Clones Online](https://github.com/lukedd3/ClonesOnline) | Online multiplayer Android board game | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.luke.Clones)   
-[Cloud Cup](https://github.com/google/cloud-cup-android) | Firebase Android client of the a multi device game https://cloud-cup.firebaseapp.com/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=fr.steren.cloudcup)   
-[Pie Noon](https://github.com/google/pienoon) | Multiplayer party game where you can throw pies at your friends. http://google.github.io/pienoon/ | C++ | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.google.fpl.pie_noon)   
+<br>
 
-###D
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) | A game of dungeon exploration, combat and magic, involving characters of diverse skills, worshipping deities of great power and caprice. | C++ | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.newtzgames.dcssonline) 
+### Non-Open-Source
+*These popular games were on the original list but do not have public source code repositories.*
 
-###E
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+| App Name | Description | Major Language |
+| :--- | :--- | :---: |
+| [**BGMI**](https://www.battlegroundsmobileindia.com/) | A popular battle royale game primarily played in India. | `C++` |
+| [**Free Fire**](https://ff.garena.com/) | A fast-paced battle royale game with quick matches. | `C++` |
 
-###F
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[friendspell](https://github.com/chiuki/friendspell) | Party icebreaker game based on the Google Nearby API | java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.sqisland.friendspell)   
+---
 
-###G
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Gloomy Dungeons 3D](https://github.com/restorer/Gloomy-Dungeons-3D) | Old-school 3D shooter | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=zame.GloomyDungeons.freedemo.game)
-[Gloomy Dungeons 2: Blood Honor](https://github.com/restorer/gloomy-dungeons-2) | Continuation of old-school 3D shooter | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.zamedev.gloomydungeons2.fullnfree)
-[Google Santa Tracker](https://github.com/google/santa-tracker-android) | Google Santa Tracker app for Android is an educational and entertaining tradition that brings joy to millions of children (and children at heart) across the world over the December holiday period.  | Java | 
-
-###H
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###I
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###J
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###K
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###L
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###M
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Material Life](https://github.com/juankysoriano/MaterialLife) | A Material Design styled Game of Life for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.juankysoriano.materiallife)
-[Memory Game](https://github.com/sromku/memory-game) | Simple and beautiful memory game for kids  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.snatik.matches)
-[Minetest](https://github.com/minetest/minetest) | Minetest, an open source infinite-world block sandbox game with survival and crafting. [also https://github.com/minetest/minetest_game] http://www.minetest.net/  | C++ | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.minetest.minetest)
-
-###N
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[newplanegame](https://github.com/nuptboyzhb/newplanegame) | a simple plane game in android.  | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.wandoujia.com/apps/edu.njupt.zhb.planegame)
-
-###O
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Open Flood](https://github.com/GunshipPenguin/open_flood) | Flood fill game for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.gunshippenguin.openflood)
-###P
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Pixel Dungeon](https://github.com/watabou/pixel-dungeon) | Traditional roguelike game with pixel-art graphics and simple interface | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.watabou.pixeldungeon)
-[PokerTH](https://github.com/pokerth/pokerth) | PokerTH is a poker game written in C++/Qt. http://www.pokerth.net/  | C++ | 
-
-###Q
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###R
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###S
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[SOPA](https://github.com/pongo710/sopa) |  SOPA is an Android puzzle game. The goal is to connect the green and the red gate with the blue tubes. Get better while solving the games level and enjoy playing. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.sopa)
-[Simon Tatham's Puzzles](https://github.com/chrisboyle/sgtpuzzles) | Android port of Simon Tatham's Puzzles. *git replace in use* - you might want to {{ git fetch origin 'refs/replace/*:refs/replace/*' }} https://chris.boyle.name/projects/android-puzzles/  | C | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
-[Stratagus](https://github.com/drodin/Stratagus) | A port of Stratagus real-time strategy gaming engine for Android. | C++ | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.drodin.stratagus)
-
-###T
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) | Indie Turn Based Strategy in Isometric Pixel Art 
-http://w84death.itch.io/tanks-of-freedom  | GDScript | 
-
-###U
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###V
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###W
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###X
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###Y
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###Z
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Zabyrinth](https://github.com/Zachacious/Zabyrinth) | Physics Game based on the Layrinth board Game. | C++ | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.EpicElf.Zabyrinth)    
+### How to Contribute
+Found an awesome open-source game that's missing? Feel free to **open an issue** or submit a **pull request** to add it!

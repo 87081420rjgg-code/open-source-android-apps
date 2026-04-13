@@ -1,145 +1,41 @@
-## Communication  
-###\# 
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+# Communication Apps
 
-###A
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+A curated list of open-source messengers, email clients, browsers, and other communication tools for Android. The list is sorted alphabetically.
 
-###B
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+---
 
-###C
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ChatSecureAndroid](https://github.com/guardianproject/ChatSecureAndroid) | the most private messaging for Android and iOS | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=info.guardianproject.otr.app.im) 
+| App Name | Description | Language | License | ⭐ Stars | Download |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| [**ChatSecure**](https://github.com/guardianproject/ChatSecureAndroid) | A private and secure messaging app for Android and iOS. (Archived) | `Java` | `Apache-2.0` | 1.1k | — |
+| [**FairEmail**](https://github.com/M66B/FairEmail) | A fully featured, privacy-friendly open-source email app for Android. | `Java` | `GPL-3.0` | 4.3k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=eu.faircode.email) |
+| [**httpSMS**](https://github.com/NdoleStudio/httpsms) | Converts your phone into an SMS gateway with a simple, programmable API. | `Go` | `AGPL-3.0` | 1.8k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://release-assets.githubusercontent.com/github-production-release-asset/497607901/91d405c5-dd03-4e8c-8ea9-73c6824870ab?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-12-22T03%3A55%3A50Z&rscd=attachment%3B+filename%3DHttpSms.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-12-22T02%3A55%3A25Z&ske=2025-12-22T03%3A55%3A50Z&sks=b&skv=2018-11-09&sig=kboFHsrSgTAUtxde9i%2FwZd4RLlIkDevA1tO2HvqQS%2FI%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2NjM3NDk5NywibmJmIjoxNzY2MzczMTk3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.ha0xof1yNvkKPoJYb6IAw2nFXa0bU3Lj5x49CkPS8xw&response-content-disposition=attachment%3B%20filename%3DHttpSms.apk&response-content-type=application%2Fvnd.android.package-archive) |
+| [**IRCCloud**](https://github.com/irccloud/android) | The official open-source Android application for IRCCloud.com. | `Java` | `Apache-2.0` | 306 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.irccloud.android) |
+| [**K-9 Mail**](https://github.com/thunderbird/thunderbird-android) | An advanced, open-source email client for Android. | `Kotlin` | `Apache-2.0` | 13.3k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.fsck.k9) |
+| [**KissProxy**](https://github.com/dawsonice/KissProxy) | An NIO-based local HTTP/HTTPS proxy for Android. (Archived) | `Java` | `Apache-2.0` | 121 | — |
+| [**Kontalk Messenger**](https://github.com/kontalk/androidclient) | The official Android client for the Kontalk instant messaging network. | `Java` | `GPL-3.0` | 579 | — |
+| [**KouChat**](https://github.com/blurpy/kouchat-android) | A serverless LAN chat application for local network communication. | `Java` | `GPL-3.0` | 93 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.usikkert.kouchat.android) |
+| [**MaterialQQLite**](https://github.com/wang4yu6peng13/MaterialQQLite) | A Material Design-style client for the QQ messaging service. (Archived) | `Java` | `Apache-2.0` | 129 | — |
+| [**Messaging (Odoo)**](https://github.com/Odoo-mobile/messaging) | The official mobile messaging client for the Odoo platform. | `Java` | `GPL-3.0` | 61 | — |
+| [**ProxyDroid**](https://github.com/madeye/proxydroid) | A global proxy application for Android devices. | `C` | `GPL-3.0` | 2.5k | — |
+| [**QKSMS**](https://github.com/moezbhatti/qksms) | An open-source replacement for the stock Android messaging (SMS/MMS) app. | `Kotlin` | `GPL-3.0` | 4.6k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.moez.QKSMS) |
+| [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | A self-hostable, Slack-like online chat platform. | `TypeScript` | `MIT` | 45.1k | — |
+| [**RTranslator**](https://github.com/niedev/RTranslator) | The world's first open-source simultaneous translation app. | `C++` | `Apache-2.0` | 9.8k | — |
+| [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | `Kotlin` | `AGPL-3.0` | 28.6k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) |
+| [**Silence**](https://github.com/SilenceIM/Silence) | A privacy-focused SMS/MMS application that uses end-to-end encryption. | `Java` | `GPL-3.0` | 1.1k | — |
+| [**surespot**](https://github.com/surespot/android) | A mobile messaging app that secures messages with end-to-end encryption. | `Java` | `GPL-3.0` | 511 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.twofours.surespot) |
+| [**TeamTalk (mogujie)**](https://github.com/mogutt/TTAndroidClient) | The official Android client for the mogutt TeamTalk service. (Archived) | `Java` | `Apache-2.0` | 739 | — |
+| [**Telegram**](https://github.com/DrKLO/Telegram) | The official, open-source Android client for the Telegram messaging service. | `Java` | `GPL-2.0` | 28.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.telegram.messenger) |
+| [**Tint Browser**](https://github.com/Anasthase/TintBrowser) | A lightweight, open-source web browser for Android 4.0 and above. | `Java` | `GPL-3.0` | 224 | — |
+| [**Tutanota**](https://github.com/tutao/tutanota) | An end-to-end encrypted email client focused on security and privacy. | `TypeScript` | `GPL-3.0` | 7.5k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=de.tutao.tutanota) |
+| [**Ulangi**](https://github.com/subconcept-labs/ulangi) | A language learning app that uses spaced repetition and other popular methods. | `TypeScript` | `GPL-3.0` | 455 | — |
+| [**VideoFly**](https://github.com/VideoFly/VideoFly) | A video calling app that allows you to multitask during a call. (Archived) | `Java` | Not specified | 21 | — |
+| [**WeChat (Clone)**](https://github.com/motianhuo/wechat) | A clone of the WeChat application. (Archived) | `Java` | Not specified | 5.5k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://raw.githubusercontent.com/motianhuo/wechat/master/WeChat/bin/WeChat.apk) |
+| [**WiFi Walkie Talkie**](https://github.com/js-labs/WalkieTalkie) | Transmits audio over a local WiFi network, acting like a walkie-talkie. | `Java` | `Apache-2.0` | 160 | — |
+| [**Wire**](https://github.com/wireapp/wire-android) | A secure messenger offering end-to-end encrypted communication. | `Kotlin` | `GPL-3.0` | 240 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.wire) |
+| [**Yaaic**](https://github.com/pocmo/Yaaic) | "Yet Another Android IRC Client" for connecting to IRC networks. (Archived) | `Java` | `GPL-3.0` | 335 | — |
+| [**Zulip**](https://github.com/zulip/zulip-android-legacy) | The official Android client for the powerful open-source group chat platform. | `Java` | `Apache-2.0` | 405 | — |
 
-###D
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+---
 
-###E
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###F
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###G
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###H
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###I
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[IRCCloud](https://github.com/irccloud/android) | The official Android app for IRCCloud.com | Java | [![Get it On Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.irccloud.android)
-
-###J
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###K
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[K-9 Mail](https://github.com/k9mail/k-9) | K-9 Mail – Advanced Email for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.fsck.k9) 
-[KissProxy](https://github.com/coderkiss/KissProxy) | NIO based android http&https local proxy. | Java |   
-[Kontalk Messenger](https://github.com/kontalk/androidclient) | Kontalk official Android client http://www.kontalk.org | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.kontalk) 
-[KouChat](https://github.com/blurpy/kouchat-android) | Serverless LAN chat application. http://www.kouchat.net/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.usikkert.kouchat.android) 
-
-###L
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###M
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[MaterialQQLite](https://github.com/wang4yu6peng13/MaterialQQLite) | A material style of QQ (based on MingQQ) | Java |  
-[messaging](https://github.com/Odoo-mobile/messaging) | Odoo Mobile Messaging Client. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.odoo) 
-[mogujie TeamTalk](https://github.com/mogutt/TTAndroidClient) | The android client of mogutt http://tt.mogu.io/ | Java | 
-
-###N
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###O
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###P
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ProxyDroid](https://github.com/madeye/proxydroid) | Global Proxy for Android  | C | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.proxydroid)   
-
-###Q
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[qksms](https://github.com/qklabs/qksms) | QKSMS is an open source replacement to the stock messaging app on Android  | java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.moez.QKSMS)   
-
-###R
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Have your own Slack like online chat, built with Meteor. https://rocket.chat/  | CoffeeScript | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.konecty.rocket.chat)   
-
-###S
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[surespot](https://github.com/surespot/android)| surespot is a mobile messaging application that secures all messages using end-to-end encryption. https://www.surespot.me | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.twofours.surespot) 
-[Signal](https://github.com/WhisperSystems/Signal-Android) | A secure calling and messaging app for Android. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
-
-###T
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Tutanota](https://github.com/tutao/tutanota) | Tutanota is the end-to-end encrypted mail client that enables you to communicate securely with anyone.  | JavaScript | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.tutao.tutanota)  
-[Telegram Messenger](https://github.com/DrKLO/Telegram) | Telegram Messenger for Android https://telegram.org/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.telegram.messenger) 
-[TintBrowser](https://github.com/Anasthase/TintBrowser) | Is an open-source browser for Android 4 and above | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.tint)
-
-###U
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###V
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- [VideoFly](https://github.com/VideoFly/VideoFly)| VideoFly is a video calling application which enables you to stay in a video call while using other applications.| Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=example.com.videofly)  
-
-###W
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[wechat](https://github.com/motianhuo/wechat) | 高仿微信 | | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://raw.githubusercontent.com/motianhuo/wechat/master/WeChat/bin/WeChat.apk)   
-[WiFi Walkie Talkie](https://github.com/js-labs/WalkieTalkie) | Simple application transmitting audio from mic to all devices running the same program on the same network segment. Use NSD for device discovery. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.jsl.wfwt)
-[Wire](https://github.com/wireapp/wire) | Messenger application that encrypts end to end communication. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.wire&hl=en)
-
-###X
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###Y
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Yaaic](https://github.com/pocmo/Yaaic) | Yaaic (Yet Another Android IRC Client) is as the name already says an Internet Relay Chat (IRC) client for Android devices. http://www.yaaic.org | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.yaaic)  
-
-###Z
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Zulip Android](https://github.com/zulip/zulip-android) | Zulip Android app, Powerful open source group chat  https://www.zulip.org/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.zulip.android)  
+### How to Contribute
+Found an awesome open-source app that's missing? Feel free to **open an issue** or submit a **pull request** to add it!

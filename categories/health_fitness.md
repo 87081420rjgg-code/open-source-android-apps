@@ -1,137 +1,21 @@
-## Health & Fitness  
-###\# 
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+# Health & Fitness Apps
 
-###A
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Android heart rate monitor](https://github.com/phishman3579/android-heart-rate-monitor) | Android based heart rate monitor which uses the camera and its flash to determine the users heart rate in beats per minute. | Java | |
-[Android app to collect medical data](https://github.com/Ana06/medical-data-android) | Android app to collect data to be analyzed for medical purposes. | Java | |
+A curated list of open-source health, wellness, and fitness apps for Android. The list is sorted alphabetically.
 
-###B
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
+---
 
-###C
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+| App Name | Description | Language | License | ⭐ Stars | Download |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| [**Aarogya Setu**](https://github.com/nic-delhi/AarogyaSetu_Android) | A contact tracing and self-assessment app from the Government of India. | `Java` | `Apache-2.0` | 2.9k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu) |
+| [**Android app to collect medical data**](https://github.com/Ana06/medical-data-android) | An app designed to collect data for medical analysis. | `Java` | `GPL-3.0` | 29 | — |
+| [**Android heart rate monitor**](https://github.com/phishman3579/android-heart-rate-monitor) | Uses the phone's camera and flash to determine heart rate. | `Java` | `Apache-2.0` | 476 | — |
+| [**fitPlant**](https://github.com/KrisKodira/fitPlant) | A fitness app where you grow virtual plants by tracking your exercise. | `Dart` | `MIT` | 32 | — |
+| [**Ishihara**](https://github.com/landtanin/Ishihara) | An application for testing color blindness using Ishihara plates. | `Java` | `MIT` | 3 | — |
+| [**NightSight**](https://github.com/meghalagrawal/NightSight) | An app to decrease screen brightness below the system's minimum level. | `Java` | `Apache-2.0` | 24 | — |
+| [**Pedometer**](https://github.com/j4velin/Pedometer) | A lightweight pedometer app that uses the hardware step-sensor. | `Java` | `Apache-2.0` | 1.4k | — |
+| [**RunnerUp**](https://github.com/jonasoreland/runnerup) | An open-source run tracker for tracking fitness activities. | `Java` | `GPL-3.0` | 900 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.runnerup) |
 
-###D
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+---
 
-###E
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###F
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-###G
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###H
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###I
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###J
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###K
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###L
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-| | | 
-
-###M
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###N
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[NightSight](https://github.com/meghalagrawal/NightSight) |An App that Decreases your Phone's brightness below system's lowest level.| | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=meghal.developer.nightsight.project) 
-
-###O
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | |
-
-###P
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Pedometer](https://github.com/j4velin/Pedometer) | Lightweight pedometer app for Android using the hardware step sensor | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.j4velin.pedometer)   
-
-###Q
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###R
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[RunnerUp](https://github.com/jonasoreland/runnerup) | An open source run tracker inspired by Garmin 410, RunKeeper and EveryWhere Run. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.runnerup)
-
-###S
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###T
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###U
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###V
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###W
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###X
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
- 
-###Y
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###Z
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
- 
+### How to Contribute
+Found an awesome open-source app that's missing? Feel free to **open an issue** or submit a **pull request** to add it!

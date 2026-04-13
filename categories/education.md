@@ -1,268 +1,43 @@
-## Education  
-###\# 
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+# Education Apps
 
-###A
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[AnkiDroid](https://github.com/ankidroid/Anki-Android) | A semi-official port of the open source [Anki](http://ankisrs.net) spaced repetition flashcard system to Android. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.ichi2.anki)
-[Awesome-Campus](https://github.com/MummyDing/Awesome-Campus) | Jiangxi Normal University Android App |Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/AwesomeCampus)
+A curated list of open-source applications for learning, studying, and self-improvement on Android. The list is sorted alphabetically.
 
-###B
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+---
 
-###C
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+| App Name | Description | Language | License | ⭐ Stars | Download |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | `Kotlin` | `GPL-3.0` | 11.0k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.ichi2.anki) |
+| [**Awesome-Campus**](https://github.com/MummyDing/Awesome-Campus) | An Android app for students of Jiangxi Normal University. | `Java` | `GPL-3.0` | 121 | — |
+| [**Enguage**](https://github.com/pjay94/enguageapp) | A mobile app for Polish speakers to learn English spelling and phrasal verbs. | `Java` | Not specified | 2 | — |
+| [**festnimbus**](https://github.com/appteam-nith/festnimbus) | An open-source college app for the technical fest of NIT Hamirpur, India. | `Java` | `GPL-3.0` | 11 | — |
+| [**ForgetMeNot**](https://github.com/tema6120/ForgetMeNot) | A simple and user-friendly flashcard application for Android. | `Kotlin` | `GPL-3.0` | 431 | — |
+| [**GivesMeHope**](https://github.com/jparkie/GivesMeHopeAndroidClient) | An unofficial Android client for the Gives Me Hope website for educational purposes. | `Java` | `MIT` | 214 | — |
+| [**Hillffair**](https://github.com/appteam-nith/Hillffair) | The official open-source app for the cultural fest of NIT Hamirpur, India. | `Java` | `GPL-3.0` | 24 | — |
+| [**Hubble Gallery**](https://github.com/derekcsm/hubble_gallery) | An app to view, save, and read about the Hubble Telescope's best images. | `Java` | `Apache-2.0` | 225 | — |
+| [**Learn Braille**](https://github.com/braille-systems/learn-braille) | A screen-reader compatible app for studying the Russian Braille alphabet. | `Kotlin` | `Apache-2.0` | 11 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.github.braillesystems.learnbraille) |
+| [**LeeCo**](https://github.com/Nightonke/LeeCo) | An app for algorithm problems, solutions, and discussions from LeetCode. | `Java` | `Apache-2.0` | 501 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Nightonke/LeeCo) |
+| [**NSIT Connect**](https://github.com/NSITonline/NSIT-Connect) | The official companion app for students of Netaji Subhas University of Technology. | `Java` | `MIT` | 71 | — |
+| [**Oppia**](https://github.com/oppia/oppia-android) | An interactive learning app that enables users to create and share lessons. | `Kotlin` | `Apache-2.0` | 394 | — |
+| [**Sahayak**](https://github.com/Neophytes/microsoft-pragyan-hackathon) | A fun-filled educational tool aimed at rural children and adults in India. | `Java` | `MIT` | 18 | — |
+| [**Say-Hi**](https://github.com/amritsinghcse/Say-Hi) | An app to help understand different English accents around the world. | `Java` | `MIT` | 3 | — |
+| [**Seashell-app**](https://github.com/drakeet/Seashell-app) | The official Android client for the "贝壳单词" (Seashell Words) app. | `Java` | `Apache-2.0` | 1.7k | — |
+| [**Stepik**](https://github.com/StepicOrg/stepik-android) | An app offering free, certificate-based online courses on various subjects. | `Kotlin` | `Apache-2.0` | 195 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.stepic.droid) |
+| [**Ulangi**](https://github.com/subconcept-labs/ulangi) | A language learning app that uses spaced repetition and other popular methods. | `TypeScript` | `GPL-3.0` | 455 | — |
+| [**Umbrella**](https://github.com/securityfirst/Umbrella_android) | An app to learn about digital and physical security, from comms to kidnapping. | `Kotlin` | `GPL-3.0` | 290 | — |
+| [**Unisannio**](https://github.com/alter-ego/unisannio-reboot) | An app for students of the University of Sannio, Italy. | `Java` | `GPL-3.0` | 33 | — |
+| [**WaniKani for Android**](https://github.com/xiprox/WaniKani-for-Android) | An Android client for the popular kanji learning website wanikani.com. | `Java` | `GPL-3.0` | 509 | — |
 
-###D
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+<br>
 
-###E
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+### Non-Open-Source
+*These popular apps were on the original list but do not have public source code repositories.*
 
-###F
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+| App Name | Description | Language |
+| :--- | :--- | :---: |
+| [**Physics Wallah**](https://www.pw.live/) | An online platform for students to learn physics, chemistry, and more. | `Java` |
+| [**Unacademy**](https://unacademy.com/) | An online learning platform with courses for various competitive exams. | `Java` |
 
-###G
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+---
 
-###H
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Hubble Gallery](https://github.com/derekcsm/hubble_gallery) | View, Save, and Read about Hubble's best images. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.derek_s.hubble_gallery)
-
-###I
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[IELTS Vocabulary Flashcards](https://github.com/bychkovdmitrii/words) | Flashcards for IELTS exam. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.dbychkov.words) 
-
-###J
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###K
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###L
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[LeeCo](https://github.com/Nightonke/LeeCo) | LeeCo is an awesome app for algorithem problems(including unlock), solutions, discuss(from leetcode) and comments. | Java | [Get it on Github](https://github.com/Nightonke/LeeCo/blob/master/APK/LeeCo%20V1.0.0.apk) 
-
-###M
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###N
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###O
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###P
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###Q
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###R
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###S
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Sahayak](https://github.com/Neophytes/microsoft-pragyan-hackathon) |An android app aimed to make a fun-filled educational tool for naives. Aimed at rural children and adults |Java | 
-[Stepic](https://github.com/StepicOrg/stepic-android) | Free online courses with certificates | Java+Kotlin | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.stepic.droid)  
-
-###T
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###U 
-####
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###A
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###B
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###C
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###D
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###E
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###F
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###G
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[GivesMeHope](https://github.com/jparkie/GivesMeHopeAndroidClient) | An unofficial Gives Me Hope Android client for educational purposes. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.jparkie.givesmehope)
-
-###H
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###I
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###J
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###K
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###L
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###M
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###N
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###O
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###P
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###Q
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###R
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###S
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Seashell-app](https://github.com/drakeet/Seashell-app) | 贝壳单词 APP Android 客户端 | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=me.drakeet.seashell)   
-
-###T
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###U
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Unisannio](https://github.com/alter-ego/unisannio-reboot/) | Android app for University of Sannio students | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=solutions.alterego.android.unisannio)   
-
-###V
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###W
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###X
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###Y
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###Z
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###V
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###W
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[WaniKani for Android](https://github.com/xiprox/WaniKani-for-Android) | An Android client application for the awesome kanji learning website wanikani.com | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=tr.xip.wanikani)
-
-###X
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###Y
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###Z
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+### How to Contribute
+Found an awesome open-source app that's missing? Feel free to **open an issue** or submit a **pull request** to add it!

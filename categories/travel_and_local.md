@@ -1,139 +1,30 @@
-## Travel & Local
-###\# 
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+# Travel & Local Apps
 
-###A
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+A curated list of open-source applications for maps, navigation, public transport, and local discovery on Android. The list is sorted alphabetically.
 
-###B
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | |
+---
 
-###C
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[c:geo](https://github.com/cgeo/cgeo) | c:geo is an open source, full-featured, always ready-to-go client for geocaching.com (unofficial) and offers basic support for other geocaching platforms (like Opencaching) | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=cgeo.geocaching)
-[cyclestreets](https://github.com/cyclestreets/android) | CycleStreets is a UK-wide cycle journey planner system, which lets you plan routes from A to B by bike. It is designed by cyclists, for cyclists, and caters for the needs of both confident and less confident cyclists | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.cyclestreets)
+| App Name | Description | Language | License | ⭐ Stars | Download |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| [**A Photo Manager**](https://github.com/k3b/APhotoManager) | Manage local photos with a gallery, geo map, finder, sorter, and EXIF editor. | `Java` | `GPL-3.0` | 239 | — |
+| [**c:geo**](https://github.com/cgeo/cgeo) | A full-featured, open-source client for geocaching and other geocaching platforms. | `Java` | `Apache-2.0` | 1.5k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=cgeo.geocaching) |
+| [**CycleStreets**](https://github.com/cyclestreets/android) | A UK-wide cycle journey planner designed by cyclists, for cyclists. | `Java` | `GPL-3.0` | 224 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.cyclestreets) |
+| [**Mapbox Dev Preview**](https://github.com/mapbox/mapbox-android-demo) | A developer preview app showcasing the features of the Mapbox Maps SDK for Android. | `Java` | `BSD-2-Clause` | 722 | — |
+| [**Maps.me**](https://github.com/mapsme/omim) | An offline map application based on OpenStreetMap data. | `C++` | `Apache-2.0` | 4.6k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro) |
+| [**NextGIS Mobile**](https://github.com/nextgis/nextgis_mobile_android) | A full-featured GIS application for creating and editing map data on the go. | `Java` | `GPL-3.0` | 140 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.nextgis.mobile) |
+| [**Opaler**](https://github.com/timgreen/opaler) | A public transport card manager for the Opal card system in Sydney, Australia. | `Scala` | `Apache-2.0` | 15 | — |
+| [**OpenBikeSharing**](https://github.com/bparmentier/OpenBikeSharing) | An app to check the availability of shared bikes in your city. | `Java` | `Apache-2.0` | 66 | — |
+| [**Organic Maps**](https://github.com/organicmaps/organicmaps) | A privacy-focused, offline maps app for travelers, tourists, hikers, and cyclists. | `C++` | `Apache-2.0` | 13.7k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=app.organicmaps) |
+| [**PAT Track**](https://github.com/rectangle-dbmi/Realtime-Port-Authority) | A real-time bus tracker for the Port Authority of Allegheny County in Pittsburgh, PA. | `Kotlin` | `GPL-3.0` | 61 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=rectangledbmi.com.pittsburghrealtimetracker) |
+| [**Picoroid**](https://github.com/hemant3370/Picoroid) | An app that shows Panoramio images around the user's current location. (Archived) | `Java` | `MIT` | 6 | — |
+| [**RoX for Android**](https://github.com/dan-zx/rox-android) | An Android application for tourism recommendations. | `Java` | `Apache-2.0` | 268 | — |
+| [**SeeWeather**](https://github.com/xcc3641/SeeWeather) | A weather app built with RxJava, Retrofit, and Material Design. | `Java` | `Apache-2.0` | 3.4k | — |
+| [**TICE**](https://github.com/TICESoftware/tice-android) | A secure, real-time location sharing app for meeting up with friends and family. | `HTML` | `GPL-3.0` | 64 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=app.tice.TICE.production) |
+| [**Tracker**](https://github.com/shivamsingh/Tracker) | A simple location tracker that updates a map and UI in a reactive way. (Archived) | `Java` | Not specified | 114 | — |
+| [**Transportr**](https://github.com/grote/Transportr) | A non-commercial app to make using public transport as easy as possible. | `Kotlin` | `GPL-3.0` | 1.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=de.grobox.liberario) |
+| [**Travel Mate**](https://github.com/project-travel-mate/Travel-Mate) | An app designed to be a complete travel guide for your trips. (Archived) | `Java` | `MIT` | 1.3k | — |
 
-###D
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Dining Out](https://github.com/pushbit/dining-out) | Create your own list of restaurants, write reviews and share with friends. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.sf.diningout)
+---
 
-###E
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###F
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###G
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###H
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###I
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###J
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###K
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###L
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###M
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Maps.me](https://github.com/mapsme/omim) | Offline OpenStreetMap maps for iOS/Android/Mac/Linux/Windows | C++ | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro)
-[Mapbox Dev Preview](https://github.com/mapbox/mapbox-android-demo) | Use interactive Mapbox maps and see what's next with the Mapbox Android SDK with this developer preview of our SDK. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.mapbox.mapboxandroiddemo)
-
-###N
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[NextGIS Mobile](https://github.com/nextgis/android_gisapp) | GIS application for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.nextgis.mobile)
-
-###O
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Opaler](https://github.com/timgreen/opaler) | Public Transport card manager for Sydney | Scala | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=it.timgreen.opal) 
-[OpenBikeSharing](https://github.com/bparmentier/OpenBikeSharing) | Shared bikes availability in your city | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=be.brunoparmentier.openbikesharing.app) 
-
-###P
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[PAT Track](https://github.com/rectangle-dbmi/Realtime-Port-Authority/) | Tracks the Port Authority buses of Pittsburgh, PA, in real-time. | Java (moving to Kotlin) | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=rectangledbmi.com.pittsburghrealtimetracker)
-[Picoroid](https://github.com/hemant3370/Picoroid) | Shows Panoramio images around the user's location. | Java  | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.hsr.hemant.ppp&hl=en)
-
-###Q
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###R
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[RoX for Android](https://github.com/dan-zx/rox-android) | Android app for Tourism Recommendations https://rox.herokuapp.com | Java | 
-
-###S
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###T
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- [Transportr](https://github.com/grote/Transportr) | Aims to make public transport as esay as possible wherever you are. | Java  | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=de.grobox.liberario)
-
-###U
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###V
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###W
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###X
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###Y
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###Z
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+### How to Contribute
+Found an awesome open-source app that's missing? Feel free to **open an issue** or submit a **pull request** to add it!

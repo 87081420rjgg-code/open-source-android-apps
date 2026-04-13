@@ -1,159 +1,64 @@
-## Social Network  
-###\# 
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+# Social Network Apps
 
-###A
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[AisenWeiBo](https://github.com/wangdan/AisenWeiBo) | Sina Weibo Client with Material Design | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.aisen.weibo.sina)   
+A curated list of open-source clients for social networks, forums, and content-sharing platforms on Android. The list is sorted alphabetically.
 
-###B
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Beebo+](https://github.com/andforce/iBeebo) | Sina Weibo Client | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.zarroboogs.weibo.plus)   
-[BlackLight](https://github.com/PaperAirplane-Dev-Team/BlackLight) | A light Sina Weibo Android client | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=us.shandian.blacklight)   
+---
 
-###C
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Cannonball](https://github.com/twitterdev/cannonball-android) | Cannonball is the fun way to create and share stories and poems on your phone. | Java |  [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=io.fabric.samples.cannonball)  
-[Cotable](https://github.com/wlemuel/Cotable) | Cnblogs Client for Android - Material Design http://www.cnblogs.com (Chinese) | Java |    
-[CNode-android](https://github.com/iwhys/CNode-android) | Android client for https://cnodejs.org/ (Chinese) | Java |  [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/iwhys/CNode-android/releases)  
-[CNode-Material-Design](https://github.com/TakWolf/CNode-Material-Design) | CNode for Material Design | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.cnodejs.android.md)   
-[Coding](https://coding.net/u/coding/p/Coding-Android/git) | Official android client for http://coding.net | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=net.coding.program)   
+| App Name | Description | Language | License | ⭐ Stars | Download |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| [**AisenWeiBo**](https://github.com/wangdan/AisenWeiBo) | A client for the Chinese social network Sina Weibo, with Material Design. (Archived) | `Java` | `Apache-2.0` | 1.9k | — |
+| [**Barinsta**](https://github.com/Barinsta/barinsta) | A privacy-friendly client for Instagram. (Discontinued) | `Java` | `GPL-3.0` | 1.3k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/me.austinhuang.instagrabber/) |
+| [**Beebo+**](https://github.com/andforce/iBeebo) | A feature-rich client for the Sina Weibo social network. | `Java` | `GPL-3.0` | 297 | — |
+| [**BlackLight**](https://github.com/PaperAirplane-Dev-Team/BlackLight) | A lightweight client for the Sina Weibo social network. | `Kotlin` | `GPL-3.0` | 872 | — |
+| [**Cannonball**](https://github.com/crashlytics/cannonball-android) | An app from Twitter for creating and sharing stories and poems. (Archived) | `Java` | `Apache-2.0` | 302 | — |
+| [**CNode-android**](https://github.com/iwhys/CNode-android) | An Android client for the CNode.js Chinese technical community. | `Java` | `MIT` | 115 | [![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/iwhys/CNode-android) |
+| [**Coding**](https://coding.net/u/coding/p/Coding-Android/git) | The official Android client for the coding.net development platform. | `Java` | `Apache-2.0` | 2.1k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.coding.program) |
+| [**Cotable**](https://github.com/wlemuel/Cotable) | A Material Design client for the Chinese blogging platform cnblogs.com. | `Java` | `Apache-2.0` | 37 | — |
+| [**Douya**](https://github.com/DreaminginCodeZH/Douya) | An Android client for the Chinese social network douban.com. | `Java` | `Apache-2.0` | 2.7k | — |
+| [**Dribbo**](https://github.com/ikew0ng/Dribbo) | A client for Dribbble to browse popular shots and debuts. (Archived) | `Java` | `Apache-2.0` | 630 | — |
+| [**DroidKaigi**](https://github.com/konifar/droidkaigi2016) | The official conference app for DroidKaigi 2016 in Tokyo. | `Java` | `Apache-2.0` | 658 | — |
+| [**FishChatAndroid**](https://github.com/oikomi/FishChatAndroid) | A chat application demonstrating modern Android development. | `Java` | Not specified | 64 | — |
+| [**ForkHub**](https://github.com/jonan/ForkHub) | A fork of the deprecated official GitHub Android app, which is still maintained. | `JavaScript` | `Apache-2.0` | 2.8k | — |
+| [**Git.NB**](https://github.com/Jeffmen/Git.NB) | A client for browsing GitHub repositories and users. (Archived) | `Java` | Not specified | 318 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/Jeffmen/Git.NB) |
+| [**GitHub Visualizer**](https://github.com/dheerajkotwani/GithubVisualizer) | A GitHub client using the official API and Material UI components. | `Kotlin` | `MIT` | 120 | — |
+| [**GitPoint**](https://github.com/gitpoint/git-point) | A GitHub client with a minimal and beautiful user interface, built with React Native. | `JavaScript` | `MIT` | 4.8k | — |
+| [**Gitskarios**](https://github.com/gitskarios/Gitskarios) | A popular and feature-rich GitHub client for Android. | `Java` | `MIT` | 526 | — |
+| [**Google I/O**](https://github.com/google/iosched) | The official open-source app for the Google I/O conference. | `Kotlin` | `Apache-2.0` | 21.7k | — |
+| [**GSD Mobile**](https://github.com/rgocal/GSD_Mobile) | The official app for the GSD (Get Shit Done) website, using RSS and JSON. | `Java` | `Apache-2.0` | 11 | — |
+| [**Gunnner**](https://github.com/egor-n/gunnner) | A Dribbble client for Android with a clean, material design. (Archived) | `Java` | `Apache-2.0` | 60 | — |
+| [**Helping Hands**](https://github.com/JerrySJoseph/Helping_Hands_Android_client) | An app to find and connect with nearby social service volunteers. | `Java` | Not specified | 3 | — |
+| [**Impeller**](https://github.com/erincandescent/Impeller) | A feature-rich client for the Pump.io open, federated social network. | `Java` | `Apache-2.0` | 47 | — |
+| [**Infinity for Reddit**](https://github.com/Docile-Alligator/Infinity-For-Reddit) | An ad-free Reddit client with a clean UI and smooth browsing experience. | `Java` | `AGPL-3.0` | 5.3k | — |
+| [**Insta Profile Downloader**](https://github.com/hemant3370/Insta) | A tool to view and download media from Instagram profiles. | `Java` | Not specified | 33 | — |
+| [**InstaMaterial**](https://github.com/frogermcs/InstaMaterial) | A concept implementation of Instagram with Material Design. (Archived) | `Java` | `Apache-2.0` | 5.0k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://raw.githubusercontent.com/frogermcs/frogermcs.github.io/master/files/10/InstaMaterial-release-1.0.1-2.apk) |
+| [**Kickstarter**](https://github.com/kickstarter/android-oss) | The official open-source application for the Kickstarter crowdfunding platform. | `Kotlin` | `Apache-2.0` | 5.8k | — |
+| [**Mastodon**](https://github.com/mastodon/mastodon-android) | The official Android client for the decentralized social network Mastodon. | `Java` | `GPL-3.0` | 2.0k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.joinmastodon.android) |
+| [**minicat**](https://github.com/mcxiaoke/minicat) | A client for the Chinese micro-blogging service fanfou.com. (Archived) | `Java` | `Apache-2.0` | 678 | — |
+| [**Monotweety**](https://github.com/yshrsmz/monotweety) | A simple Twitter client designed for tweeting directly from the notification area. | `Kotlin` | `Apache-2.0` | 112 | — |
+| [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | `Java` | `GPL-3.0` | 37.8k | — |
+| [**OctoDroid (gh4a)**](https://github.com/slapperwan/gh4a) | A long-standing, feature-rich GitHub client for Android. | `Java` | `Apache-2.0` | 2.0k | — |
+| [**OSChina Android**](https://gitee.com/oschina/android-app) | The official client for the Chinese open-source community oschina.net. | `Java` | `Apache-2.0` | 4.7k | [![Download](https://img.shields.io/badge/Download-APK-blue)](http://www.coolapk.com/apk/net.oschina.app) |
+| [**PHPHub Android**](https://github.com/CycloneAxe/phphub-android) | An Android client for the PHPHub community. (Archived) | `Java` | `Apache-2.0` | 943 | — |
+| [**PocketHub**](https://github.com/pockethub/PocketHub) | A community-maintained fork of the original official GitHub Android app. | `Java` | `Apache-2.0` | 9.4k | — |
+| [**Qiitanium**](https://github.com/ogaclejapan/Qiitanium) | An unofficial client for the Japanese technical knowledge sharing service, Qiita. | `Java` | `MIT` | 250 | — |
+| [**ribot-app-android**](https://github.com/ribot/ribot-app-android) | The official studio app for the ribot agency, showcasing their work. (Archived) | `Java` | `Apache-2.0` | 1.2k | — |
+| [**Shadowsocks**](https://github.com/shadowsocks/shadowsocks-android) | A secure socks5 proxy client, widely used for bypassing network censorship. | `Kotlin` | `GPL-3.0` | 36.7k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.github.shadowsocks) |
+| [**Skooter**](https://github.com/prathmeshranaut/skooterapp) | A client for an anonymous social network. (Archived) | `Java` | `Apache-2.0` | 59 | — |
+| [**Talon for Twitter**](https://github.com/klinker24/talon-twitter-holo) | The fully open-source version of the popular Talon for Twitter app. | `Java` | `Apache-2.0` | 1.7k | — |
+| [**TEDxTehran**](https://github.com/TEDxTehran-Team/event-app-android) | The official event application for TEDxTehran. | `Kotlin` | `Apache-2.0` | 17 | — |
+| [**TikTok App Clone**](https://github.com/mcofie/Tik-Tok-App-Clone-Flutter) | A basic clone of the TikTok app, created using the Flutter framework. | `Dart` | `MIT` | 220 | — |
+| [**Tusky**](https://github.com/tuskyapp/Tusky) | A beautiful and feature-rich client for the decentralized social network Mastodon. | `Kotlin` | `GPL-3.0` | 2.6k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) |
+| [**Twiader**](https://github.com/jydimir/Twiader) | A Twitter client that can read tweets aloud. | `Java` | Not specified | 25 | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/jydimir/Twiader/blob/master/release/app-release.apk?raw=true) |
+| [**Twidere**](https://github.com/TwidereProject/Twidere-Android) | A powerful, customizable, and material-designed Twitter client. | `Kotlin` | `GPL-3.0` | 2.7k | — |
+| [**v2ex-android**](https://github.com/greatyao/v2ex-android) | A client for the Chinese technology forum v2ex.com. (Archived) | `Java` | `MIT` | 499 | — |
+| [**wasteof for Android**](https://github.com/micahlt/wasteof.mobile) | The official Android app for the wasteof.money social media platform. | `JavaScript` | `GPL-3.0` | 20 | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.micahlindley.wasteofmobile) |
+| [**WeGit**](https://github.com/Leaking/WeGit) | An Android client for GitHub with a focus on a clean user interface. (Archived) | `Java` | `Apache-2.0` | 490 | — |
+| [**weiciyuan**](https://github.com/qii/weiciyuan) | A popular and feature-rich client for the Sina Weibo social network. | `Java` | `GPL-3.0` | 2.6k | — |
+| [**WordPress**](https://github.com/wordpress-mobile/WordPress-Android) | The official open-source app for managing WordPress sites. | `Kotlin` | `GPL-2.0` | 3.1k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=org.wordpress.android) |
+| [**Xtra**](https://github.com/crackededed/Xtra) | An open-source, ad-free Twitch player and browser for Android. | `Kotlin` | `AGPL-3.0` | 2.0k | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.github.andreyasadchy.xtra) |
+| [**YouJoin**](https://github.com/FreedomZZQ/YouJoin-Android) | A social connection app with a focus on Material Design. (Archived) | `Java` | `MIT` | 297 | — |
 
-###D
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Douya](https://github.com/DreaminginCodeZH/Douya) | Android client for douban.com (Chinese) | Java | 
-[Dribbo](https://github.com/ikew0ng/Dribbo) | A BETTER Client for Dribbble. It lets you browse all categories of Dribbble, popular ,everyone and debuts. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.refactech.driibo)
-[DroidKaigi](https://github.com/konifar/droidkaigi2016) | DroidKaigi 2016 official Android conference app in Tokyo. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=io.github.droidkaigi.confsched)
+---
 
-###E
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###F
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[FishChatAndroid](https://github.com/oikomi/FishChatAndroid) | FishChat | Java |
-
-###G
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Forkhub Android app for Github](https://github.com/jonan/ForkHub) | The Github android app was deprecated, but the "forkhub" fork is still being maintained and works fine | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=jp.forkhub)  
-[Git.NB](https://github.com/Jeffmen/Git.NB) | A app client for Github | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Jeffmen/Git.NB/tree/master/apk)  
-[Gitskarios](https://github.com/gitskarios/Gitskarios) | Github android aplication http://gitskarios.com/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.alorma.github)  
-[Google I/O](https://github.com/google/iosched) | The Google I/O Android App | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched)   
-[Gunnner](https://github.com/egor-n/gunnner) | Dribbble client | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.gunnner)   
-
-###H
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###I
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[InstaMaterial](https://github.com/frogermcs/InstaMaterial) | Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept) | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/frogermcs/frogermcs.github.io/raw/master/files/10/InstaMaterial-release-1.0.1-2.apk)     
-[Impeller](https://github.com/oshepherd/Impeller) | Impeller is a rich, featureful client for the Pump.io open, federated social network, built to give you the best experience possible over both your phone and tablet. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=eu.e43.impeller) 
-
-###J
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###K
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###L
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###M
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###N
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- [minicat](https://github.com/mcxiaoke/minicat)| 蘑菇饭App http://fanfou.com/androidsupport | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.mcxiaoke.minicat2) 
-
-###O
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[OSChina Android](http://git.oschina.net/oschina/android-app) | Official OSChina client for Android http://www.oschina.net (Chinese) | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.coolapk.com/apk/net.oschina.app)   
-[OSChina Android (tonlin)](http://git.oschina.net/tonlin/android-app) | Third-part OSChina client for Android http://www.oschina.net (Chinese) | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://www.wandoujia.com/apps/com.tonlin.osc.happy)   
-[OctoDroid](https://github.com/slapperwan/gh4a) | Github client for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.gh4a) 
-
-###P
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[PHPHub Android](https://github.com/CycloneAxe/phphub-android) | Android client of PHPHub https://phphub.org/ | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](http://fir.im/phphub) 
-[PocketHub](https://github.com/pockethub/PocketHub) | PocketHub Android App. This is the same repository as the now-defunct official GitHub Android app. | Java |  
-
-###Q
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Qiitanium](https://github.com/ogaclejapan/qiitanium) | An unofficial Android application of Japanese technical information sharing service [Qiita](https://qiita.com/) for programmers.  | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.ogaclejapan.qiitanium) 
-
-###R
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[ribot-app-android](https://github.com/ribot/ribot-app-android) | The ribot studio app for the Android Platform http://ribot.co.uk/ | Java |  
-
-###S
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-android) | A Shadowsocks client for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
-[Skooter](https://github.com/aayushranaut/skooterapp) | An anonymous social network | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.skooterapp)
-
-###T
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[Talon for Twitter](https://github.com/klinker24/Talon-for-Twitter) | 100% open source version of my popular Talon for Twitter app on Android. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.klinker.android.twitter_l) 
-[Tweetin](https://github.com/mthli/Tweetin) | Yet another Twitter unofficial client for Lollipop. | Java | 
-[Tweet Lanes](https://github.com/chrislacy/TweetLanes) | Tweet Lanes for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.tweetlanes.android)   
-[Twidere-Android](https://github.com/TwidereProject/Twidere-Android/) | Twitter client for Android | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.mariotaku.twidere)   
-[Twitter Lists](https://github.com/MPieter/TwitterLists) | An Android application to manage your Twitter lists. | Java |
-[Twiader](https://github.com/jydimir/Twiader) | Twitter speech reader | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/jydimir/Twiader/blob/master/release/app-release.apk?raw=true)
-
-###U
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###V
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[v2ex-android](https://github.com/greatyao/v2ex-android) | Another v2ex client on android platform. | Java | 
-[v2ex-daily-android](https://github.com/kyze8439690/v2ex-daily-android) | A v2ex client on android platform. | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=com.yugy.v2ex.daily) 
-
-###W
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[WeGit](https://github.com/Leaking/WeGit) | An Android App for Github | Java | [![Get it on Third-Party](http://i.imgur.com/ppYJYe5.png)](https://github.com/Leaking/WeGit/tree/master/screenshot)   
-[weiciyuan](https://github.com/qii/weiciyuan) | Sina Weibo Android Client | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.qii.weiciyuan)   
-[WordPress](https://github.com/wordpress-mobile/WordPress-Android) | WordPress for Android https://apps.wordpress.org/ | Java | [![Get it on Google Play](http://i.imgur.com/7sq06lr.png)](https://play.google.com/store/apps/details?id=org.wordpress.android) 
-
-###X
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
-
-###Y
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
-[YouJoin](https://github.com/FreedomZZQ/YouJoin-Android) | YouJoin Android Client, a cool app of connection, use Material Design. |  
-
-###Z
-App Name                   | Describe                  | Major Language             | Download 
-:------------------------: | :------------------------ | :------------------------: | :------------------------: 
- | | | 
+### How to Contribute
+Found an awesome open-source app that's missing? Feel free to **open an issue** or submit a **pull request** to add it!
